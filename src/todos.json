@@ -1,0 +1,24 @@
+{
+    "todos": [
+      {
+            "title": "Romeo y Julieta",
+            "director": "Shekspeare",
+            "year": "1990",
+            "rating": "8.5"
+
+        },
+        {
+            "title": "El rito",
+            "director": "Jonhy Deep",
+            "year": "1987",
+            "rating": "9.4"
+        },
+        
+        {
+            "title": "Kill Bill",
+            "director": "Quentin Tarantino",
+            "year": "1967",
+            "rating": "9.8"
+        }
+    ]
+}
